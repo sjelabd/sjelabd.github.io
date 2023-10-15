@@ -5,12 +5,28 @@ Personal:
   $BIO$: I'm a really cool dude with a really cool beard
   $EMAIL$: sje2tu@virginia.edu
 Primary Author Publications:
-  - $TITLE$: Example Primary Paper
-    $URL$: https://alecbonham.com/
+  - $TITLE$: Bimodal Interstellar Abundance of C2H4O2 Isomers
+    $URL$: https://arxiv.org/abs/1907.13551
     $ICON$: fa-book
-    $BLURB$: A really cool website by my friend Alec
+    $BLURB$: 
 Coauthor Publications:
-  - $TITLE$: Example Coauthor Paper
-    $URL$: http://joshferey.com/
+  - $TITLE$: ALMA Detection of Methoxymethanol
+    $URL$: https://arxiv.org/abs/1712.03256
     $ICON$: fa-book
-    $BLURB$: A really cool website by my friend Josh
+    $BLURB$: 
+- $TITLE$: Spectral Hardening in Black Hole Accretion
+    $URL$: https://arxiv.org/abs/1809.05134
+    $ICON$: fa-book
+    $BLURB$: 
+- $TITLE$: Searches for Interstellar HCCSH and H2CCS
+    $URL$: https://arxiv.org/abs/1908.04247
+    $ICON$: fa-book
+    $BLURB$: 
+- $TITLE$: The Family of Amide Molecules toward NGC 6334I
+    $URL$: https://arxiv.org/abs/2008.09157
+    $ICON$: fa-book
+    $BLURB$: 
+- $TITLE$: The Extraordinary Outburst in NGC 6334I
+    $URL$: https://arxiv.org/abs/2104.05187
+    $ICON$: fa-book
+    $BLURB$: 
