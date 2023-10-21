@@ -19,13 +19,13 @@ def main():
     primary_pubs = config_file["Primary Author Publications"]
     coauthor_pubs = config_file["Coauthor Publications"]
 
-    menu_html = build_menu(primary_pubs, coauthor_pubs, menu_template)
+    menu_html = build_menu(primary_pubs=primary_pubs, coauthor_pubs=coauthor_pubs, menu_template=menu_template)
     tag = "$MENU$"
     home_template = home_template.replace(tag, menu_html)
 
     # Building Home Page
     print("Building Homepage")
-    build_home(coauthor_pubs, primary_pubs, home_template)
+    build_home(primary_pubs=primary_pubs, coauthor_pubs=coauthor_pubs, home_template=home_template)
     print("Website Built!")
 
 
